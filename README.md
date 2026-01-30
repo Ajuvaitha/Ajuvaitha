@@ -85,6 +85,16 @@ I’m **Ajuvaitha**, a **Computer Science Engineering student** specializing in 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajuvaitha&layout=compact&theme=radical)
 
 ---
+## 🧠 Problems I Enjoy Working On
+- Automating repetitive workflows  
+- Designing clear conversational flows  
+- Turning unstructured data into usable insights
+
+## 🌱 Currently Learning
+- Conversational AI and chatbot orchestration  
+- Generative AI integration in applications  
+- Scalable backend services with Python  
+
 
 ## 🌐 Connect with Me
 - 📧 Email: **ajuvaithak@gmail.com**  
