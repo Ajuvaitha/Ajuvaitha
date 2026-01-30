@@ -40,12 +40,10 @@ I’m **Ajuvaitha**, a **Computer Science Engineering student** specializing in 
 
 | Project | Link | Description |
 |--------|------|-------------|
-
-| **Fraud Detection Workflow** | [Download]("C:\Users\Aju_2\Downloads\AI-Driven fraud detection system.json") | Machine learning pipeline for suspicious activity detection |
+| **Fraud Detection Workflow** | [Download](https://github.com/Ajuvaitha/YOUR_REPO_NAME/blob/main/AI-Driven%20fraud%20detection%20system.json) | Machine learning pipeline for suspicious activity detection |
 | **Personal Budget Tracker** | [Live](https://ajuvaitha.github.io/Personal_budget_tracker/) | Web-based expense and income tracking application |
 | **Portfolio Website** | [Website](https://ajuvaitha.github.io/Porfolio/) | Personal portfolio showcasing projects and skills |
 | **SafePay** | [Live](https://ajuvaitha.github.io/Safepay-/) | Secure and user-friendly payment interface |
-
 
 
 ---
