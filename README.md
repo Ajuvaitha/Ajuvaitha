@@ -1,58 +1,74 @@
-# 💫 About Me
+# Hi there! 👋
 
-## 👋 Hi, I’m Ajuvaitha K
+I’m **Ajuvaitha K**, a **Computer Science Engineering student** specializing in  
+**IoT and Cyber Security (including Blockchain)**.
 
-I’m a Computer Science Engineering student specializing in **IoT and Cyber Security (including Blockchain)**, with a strong interest in **Machine Learning, Generative AI, and chatbot systems**.
-
-I focus on designing **clear, practical, and reliable software systems**, especially in areas where automation and intelligent tools can improve understanding and decision-making. My work includes projects such as **chatbots, fraud detection workflows, AI-powered utilities, and developer-focused tools**.
-
-I value **structure, reasoning, and transparency** in the systems I work on, and I enjoy translating technical ideas into solutions that are easy to use and easy to reason about.
+I’m interested in **chatbot development, generative AI, AI tools, and intelligent software systems**.  
+My focus is on creating **practical, understandable, and reliable solutions** through code.
 
 ---
 
-## 🔭 What I’m Working On
-- Chatbot development and conversational systems  
+## 🔭 Current Focus
+- Chatbot and conversational system development  
 - Generative AI tools and AI-assisted workflows  
-- Python-based backend applications and APIs  
-- Learning-focused and developer-oriented tools  
+- Python-based backend development  
+- Automation and developer-focused utilities  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 Skills
 
-**Languages & Core**
-- Python, C++, SQL  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Web & Backend**
-- HTML, CSS, Flask, FastAPI, Streamlit  
+---
 
-**AI & Data**
-- Machine Learning, NLP, Generative AI  
-- NumPy, Pandas, Matplotlib, OpenCV  
+### AI / Data
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![NLP](https://img.shields.io/badge/NLP-4B0082?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
 
-**Platforms & Tools**
-- GitHub, AWS (basics), Power BI  
-- Figma, WordPress  
+---
+
+### Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 📌 Selected Projects
-*(Pin these repositories on your profile)*
 
-- **Chatbot Systems** – Conversational interfaces using NLP and AI tools  
-- **Fraud Detection Workflow** – ML-based analysis with real-time alerts  
-- **AI Resume & Utility Tools** – Generative AI for practical automation  
-- **Learning & Developer Tools** – Tools focused on clarity and usability  
+| Project | Description |
+|------|------------|
+| **Chatbot Systems** | NLP-based chatbots and conversational assistants |
+| **Fraud Detection Workflow** | Machine learning pipeline for suspicious activity detection |
+| **AI Resume Generator** | Generative AI-based resume automation |
+| **Developer Utilities** | Tools focused on learning, clarity, and automation |
+
+👉 *(Pin these repositories on your profile for best impact)*
 
 ---
 
-## 🌐 Connect With Me
-- 📧 Email: [ajuvaithak@gmail.com](mailto:ajuvaithak@gmail.com)  
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajuvaitha&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajuvaitha&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+- 📧 Email: **ajuvaithak@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/ajuvaitha-k-snsinstiution](https://www.linkedin.com/in/ajuvaitha-k-snsinstiution/)  
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajuvaitha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajuvaitha&layout=compact&theme=radical)
+*Focused on learning, clarity, and building meaningful systems.*
