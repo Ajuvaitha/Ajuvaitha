@@ -1,18 +1,9 @@
-# Hi there! 👋
+# Hi there! 👨‍💻
 
-I’m **Ajuvaitha K**, a **Computer Science Engineering student** specializing in  
-**IoT and Cyber Security (including Blockchain)**.
+I’m **Ajuvaitha**, a **Computer Science Engineering student** specializing in **(IoT and Cyber Security including Blockchain Technology)**.
 
-I’m interested in **chatbot development, generative AI, AI tools, and intelligent software systems**.  
-My focus is on creating **practical, understandable, and reliable solutions** through code.
-
----
-
-## 🔭 Current Focus
-- Chatbot and conversational system development  
-- Generative AI tools and AI-assisted workflows  
-- Python-based backend development  
-- Automation and developer-focused utilities  
+- Exploring chatbot development, generative AI, and intelligent software systems
+- Focused on building practical, understandable, and reliable solutions through code
 
 ---
 
@@ -41,7 +32,6 @@ My focus is on creating **practical, understandable, and reliable solutions** th
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
@@ -55,7 +45,6 @@ My focus is on creating **practical, understandable, and reliable solutions** th
 | **AI Resume Generator** | Generative AI-based resume automation |
 | **Developer Utilities** | Tools focused on learning, clarity, and automation |
 
-👉 *(Pin these repositories on your profile for best impact)*
 
 ---
 
