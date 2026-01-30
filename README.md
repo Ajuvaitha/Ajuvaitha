@@ -7,7 +7,7 @@ I’m **Ajuvaitha**, a **Computer Science Engineering student** specializing in 
 
 ---
 
-## 🧠 Skills
+## Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -36,14 +36,18 @@ I’m **Ajuvaitha**, a **Computer Science Engineering student** specializing in 
 
 ---
 
-## 📌 Selected Projects
+## 📚 Recent Learning Projects
 
-| Project | Description |
-|------|------------|
-| **Chatbot Systems** | NLP-based chatbots and conversational assistants |
-| **Fraud Detection Workflow** | Machine learning pipeline for suspicious activity detection |
-| **AI Resume Generator** | Generative AI-based resume automation |
-| **Developer Utilities** | Tools focused on learning, clarity, and automation |
+| Project | Link | Description |
+|--------|------|-------------|
+| **Chatbot Systems** | — | NLP-based chatbots and conversational assistants |
+| **Fraud Detection Workflow** | [Download Workflow](sandbox:/mnt/data/AI-Driven%20fraud%20detection%20system.json) | Machine learning pipeline for suspicious activity detection |
+| **AI Resume Generator** | — | Generative AI-based resume automation |
+| **Developer Utilities** | — | Tools focused on learning, clarity, and automation |
+| **Personal Budget Tracker** | [Live Demo](https://ajuvaitha.github.io/Personal_budget_tracker/) | Web-based expense and income tracking application |
+| **Portfolio Website** | [Live Website](https://ajuvaitha.github.io/Porfolio/) | Personal portfolio showcasing projects and skills |
+| **SafePay** | [Live Demo](https://ajuvaitha.github.io/Safepay-/) | Secure and user-friendly payment interface |
+
 
 
 ---
