@@ -3,7 +3,7 @@
 I’m **Ajuvaitha**, a **Computer Science Engineering student** specializing in **(IoT and Cyber Security including Blockchain Technology)**.
 
 - Exploring chatbot development, generative AI, and intelligent software systems
-- Focused on building practical, understandable, and reliable solutions through code
+- Focused on building practical, understandable, and reliable solutions through code.
 
 ---
 
@@ -73,9 +73,9 @@ I’m **Ajuvaitha**, a **Computer Science Engineering student** specializing in 
 | Project | Link | Description |
 |--------|------|-------------|
 | **Fraud Detection Workflow** | [Download](https://github.com/Ajuvaitha/YOUR_REPO_NAME/blob/main/AI-Driven%20fraud%20detection%20system.json) | Machine learning pipeline for suspicious activity detection |
-| **Personal Budget Tracker** | [Live](https://ajuvaitha.github.io/Personal_budget_tracker/) | Web-based expense and income tracking application |
-| **Portfolio Website** | [Website](https://ajuvaitha.github.io/Porfolio/) | Personal portfolio showcasing projects and skills |
-| **SafePay** | [Live](https://ajuvaitha.github.io/Safepay-/) | Secure and user-friendly payment interface |
+| **Personal Budget Tracker** | [Click here](https://ajuvaitha.github.io/Personal_budget_tracker/) | Web-based expense and income tracking application |
+| **Portfolio Website** | [Click here](https://ajuvaitha.github.io/Porfolio/) | Personal portfolio showcasing projects and skills |
+| **SafePay** | [Click here](https://ajuvaitha.github.io/Safepay-/) | Secure and user-friendly payment interface |
 
 
 ---
