@@ -2,7 +2,7 @@
 
 I’m **Ajuvaitha**, a **Computer Science Engineering student** specializing in **(IOT and Cyber Security including Blockchain Technology)**.
 
-- Exploring chatbot development, generative AI, and intelligent software systems.
+- Exploring chatbot development, generative AI, and intelligent software systems
 - Focused on building practical, understandable, and reliable solutions through code.
 
 ---
